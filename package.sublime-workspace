@@ -1,0 +1,519 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "{\n  \"name\": \"facerecognition-api\",\n  \"version\": \"1.0.0\",\n  \"description\": \"\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"start\": \"nodemon server.js\"\n  },\n  \"keywords\": [],\n  \"author\": \"\",\n  \"license\": \"ISC\",\n  \"dependencies\": {\n    \"body-parser\": \"^1.18.2\",\n    \"express\": \"^4.16.3\"\n  },\n  \"devDependencies\": {\n    \"nodemon\": \"^1.17.3\"\n  }\n}\n",
+			"file": "package.json",
+			"file_size": 366,
+			"file_write_time": 131678644789471090,
+			"settings":
+			{
+				"buffer_size": 341,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 884.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 1240.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/16175/Desktop/Class/facerecognition-api/package.json",
+		"/C/Users/16175/Desktop/Class/facerecognition/Node/server.js",
+		"/C/Users/16175/Desktop/Class/facerecognition/Node/script.js",
+		"/C/Users/16175/Desktop/Class/facerecognition/Node/package.json",
+		"/C/Users/16175/Desktop/Class/facerecognition/Node/server1.js",
+		"/C/Users/16175/Desktop/Class/facerecognition/script.js",
+		"/C/Users/16175/Desktop/Class/facerecognition/script2.js",
+		"/C/Users/16175/Desktop/Class/facerecognition/src/index.css",
+		"/C/Users/16175/Desktop/Class/facerecognition/src/App.css",
+		"/C/Users/16175/Desktop/Class/facerecognition/src/components/Register/Register.js",
+		"/C/Users/16175/Desktop/Class/facerecognition/src/components/Signin/Signin.js",
+		"/C/Users/16175/Desktop/Class/facerecognition/src/components/navigation/Navigation.js",
+		"/C/Users/16175/Desktop/Class/facerecognition/src/App.js",
+		"/C/Users/16175/Desktop/Class/facerecognition/src/components/imagelinkform/ImageLinkForm.css",
+		"/C/Users/16175/Desktop/Class/facerecognition/src/components/imagelinkform/ImageLinkForm.js",
+		"/C/Users/16175/Desktop/Class/facerecognition/src/components/rank/Rank.js",
+		"/C/Users/16175/Desktop/Class/facerecognition/src/components/facerecognition/FaceRecognition.js",
+		"/C/Users/16175/Desktop/Class/facerecognition/src/components/facerecognition/FaceRecognition.css",
+		"/C/Users/16175/Desktop/Class/Tools/robofriends/src/components/CardList.js",
+		"/C/Users/16175/Desktop/Class/Tools/robofriends/src/index.js",
+		"/C/Users/16175/Desktop/Class/Tools/robofriends/src/robots.js",
+		"/C/Users/16175/Desktop/Class/facerecognition/src/index.js",
+		"/C/Users/16175/Desktop/Class/facerecognition/src/components/logo/Logo.css",
+		"/C/Users/16175/Desktop/Class/facerecognition/src/components/logo/Logo.js",
+		"/C/Users/16175/Desktop/Class/JS/exercisePromises.js",
+		"/C/Users/16175/Desktop/Class/JS/exerciseAsyncAwait.js",
+		"/C/Users/16175/Desktop/Class/JS/exerciseAsyncAwait-SOLUTIONS.js",
+		"/C/Users/16175/Desktop/Class/JS/exercisePromises-SOLUTIONS.js",
+		"/C/Users/16175/Desktop/Class/Tools/robofriends/src/components/scroll.js",
+		"/C/Users/16175/Desktop/Class/Tools/robofriends/src/containers/App.js",
+		"/C/Users/16175/Desktop/Class/Tools/robofriends/src/App.js",
+		"/C/Users/16175/Desktop/Class/Tools/robofriends/src/scroll.js",
+		"/C/Users/16175/Desktop/Class/Tools/robofriends/src/App.css",
+		"/C/Users/16175/Desktop/Class/Tools/robofriends/src/index.css",
+		"/C/Users/16175/Desktop/Class/Tools/robofriends/src/Card.js",
+		"/C/Users/16175/Desktop/Class/Tools/robofriends/src/SearchBox.js",
+		"/C/Users/16175/Desktop/Class/Tools/robofriends/src/CardList.js",
+		"/C/Users/16175/Desktop/Class/Tools/robofriends/src/Card.css",
+		"/C/Users/16175/Desktop/Class/Tools/robofriends/src/hello.js",
+		"/C/Users/16175/Desktop/Class/Tools/robofriends/src/Hello.css",
+		"/C/Users/16175/Desktop/Class/Tools/Background-Generator/script.js",
+		"/C/Users/16175/Desktop/Class/Tools/Background-Generator/index.html",
+		"/C/Users/16175/Desktop/Class/Tools/Background-Generator/package.json",
+		"/C/Users/16175/Desktop/Class/JS/keeping FORK up to date.txt",
+		"/C/Users/16175/test/zero-to-mastery-website/assets/css/style.css",
+		"/C/Users/16175/Desktop/Class/TEST/index.html",
+		"/C/Users/16175/Desktop/Class/TEST/style.css",
+		"/C/Users/16175/Desktop/Class/JS/index.html",
+		"/C/Users/16175/Desktop/Class/JS/exerciseES88-SOLUTIONS.js",
+		"/C/Users/16175/Desktop/Class/JS/exerciseES88.js",
+		"/C/Users/16175/Desktop/Class/JS/exerciseES77-SOLUTIONS.js",
+		"/C/Users/16175/Desktop/Class/JS/exerciseES77.js",
+		"/C/Users/16175/Desktop/Class/JS/exercise66-SOLUTIONS.js",
+		"/C/Users/16175/Desktop/Class/JS/exercise66.js",
+		"/C/Users/16175/Desktop/Class/JS/exercise55-SOLUTIONS-1.js",
+		"/C/Users/16175/Desktop/Class/JS/exercise55.js",
+		"/C/Users/16175/Desktop/Class/JS/exercise44.js",
+		"/C/Users/16175/Desktop/Class/JS/exercise44-SOLUTIONS.js",
+		"/C/Users/16175/Desktop/Class/JS/exercise33.js",
+		"/C/Users/16175/Desktop/Class/JS/exercise33-SOLUTIONS.js",
+		"/C/Users/16175/Desktop/Class/JS/exercise22.js",
+		"/C/Users/16175/Desktop/Class/JS/exercise22-SOLUTIONS.js",
+		"/C/Users/16175/Desktop/Class/JS/exercise1.js",
+		"/C/Users/16175/Desktop/Class/JS/exercise1-SOLUTIONS.js",
+		"/C/Users/16175/Desktop/Class/Tools/Background Generator/script.js",
+		"/C/Users/16175/Desktop/Class/DOM/script.js",
+		"/C/Users/16175/Desktop/Class/DOM/index.html",
+		"/C/Users/16175/Desktop/Class/DOM/student.js",
+		"/C/Users/16175/Desktop/Class/JS/SectionOutline.txt",
+		"/C/Users/16175/Desktop/Class/JS/script.js",
+		"/C/Users/16175/Desktop/Class/JS/exercise7.txt",
+		"/C/Users/16175/Desktop/Class/JS/exercise7-SOLUTIONS.js",
+		"/C/Users/16175/Desktop/Class/JS/exercise6-SOLUTIONS.js",
+		"/C/Users/16175/Desktop/Class/JS/exercise6.txt",
+		"/C/Users/16175/Desktop/Class/JS/exercise5.txt",
+		"/C/Users/16175/Desktop/Class/JS/exercise5-SOLUTIONS.js",
+		"/C/Users/16175/Desktop/Class/exercise4.txt",
+		"/C/Users/16175/Desktop/Class/exercise3.txt",
+		"/C/Users/16175/Desktop/Class/exercise2.txt",
+		"/C/Users/16175/Desktop/Class/exercise1.txt",
+		"/C/Users/16175/Desktop/Class/animate.css",
+		"/C/Users/16175/Desktop/Class/BoostrapLesson/index.html",
+		"/C/Users/16175/Desktop/Class/Launch/styles.css",
+		"/C/Users/16175/Desktop/Class/Launch/index.html",
+		"/C/Users/16175/Desktop/Class/BoostrapLesson/style2.css",
+		"/C/Users/16175/Desktop/Class/BoostrapLesson/index2.html",
+		"/C/Users/16175/Desktop/Class/BoostrapLesson/header.jpg",
+		"/C/Users/16175/Desktop/Class/Launch/index",
+		"/C/Users/16175/Desktop/Class/index.html",
+		"/C/Users/16175/Desktop/Class/BoostrapLesson/styles.css",
+		"/C/Users/16175/Desktop/Class/BoostrapLesson/index",
+		"/C/Users/16175/Desktop/Class/Robot3/index.html",
+		"/C/Users/16175/Desktop/Class/Robot3/style.css",
+		"/C/Users/16175/Desktop/Class/Robot1/index.html",
+		"/C/Users/16175/Desktop/Class/Robot1/style.css",
+		"/C/Users/16175/Desktop/Class/Images Class/index.html",
+		"/C/Users/16175/Desktop/Class/Robot1/android_tardis/Android Tardis/style.css",
+		"/C/Users/16175/Desktop/Class/Robot1/android_tardis/Android Tardis/index.html",
+		"/C/Users/16175/Desktop/Class/Robot1/android_tardis.zip",
+		"/C/Users/16175/Desktop/Class/Images Gallery/index.html",
+		"/C/Users/16175/Desktop/Class/Images Class/style.css",
+		"/C/Users/16175/Desktop/Class/Pillows.html",
+		"/C/Users/16175/Desktop/Class/styles.css",
+		"/C/Users/16175/Desktop/Class/Lecture39/index.html",
+		"/C/Users/16175/Desktop/styles.css",
+		"/C/Users/16175/Desktop/Pillows.html",
+		"/C/Users/16175/Desktop/index.html",
+		"/C/Users/16175/Desktop/register.html",
+		"/C/Users/16175/Desktop/about.html",
+		"/C/Users/16175/Desktop/Class/Lecture39/style.css",
+		"/C/Users/16175/Desktop/Class/Lecture39/login.html",
+		"/C/Users/16175/Desktop/Class/Lecture39/about.html",
+		"/C/Users/16175/Desktop/InteriorNatureWebsiteDEC2015.htm",
+		"/C/Users/16175/Desktop/Class/register.html",
+		"/C/Users/16175/Desktop/newpage.html"
+	],
+	"find":
+	{
+		"height": 58.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"class"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"className",
+			"class"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								146,
+								146
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										364,
+										365
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										146,
+										147
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										128,
+										129
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (NPM).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 58.0
+	},
+	"input":
+	{
+		"height": 159.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 106.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 677.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
